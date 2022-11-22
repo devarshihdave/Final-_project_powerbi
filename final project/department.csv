@@ -1,0 +1,39 @@
+IT Department,IT Area,Dept. Manager
+Core,BU Support,Sam Danks
+Development,BU Support,Sam Danks
+Distribution,BU Support,Linda Lee
+Emerging,BU Support,Robert Nero
+Manufacturing,BU Support,Mira Flores
+Planning,BU Support,Mira Flores
+Production,BU Support,Sam Danks
+R&D,BU Support,Max Gin
+Business Intelligence,Enablement,Raju Singh
+Data Management,Enablement,Marcia Carr
+Document Management,Enablement,Sean Peters
+EIM,Enablement,Linda Lee
+Enterprise Capabilities,Enablement,Max Gin
+Innovation,Enablement,Max Gin
+Mobility,Enablement,Bo Jones
+Portals,Enablement,Jim Wheeler
+Six Sigma,Enablement,Sam Danks
+R1,Functional,Marcia Carr
+R2,Functional,Raju Singh
+R3,Functional,Jim Biggs
+R5,Functional,Marcia Carr
+Administration,Governance,Jim Biggs
+Architecture,Governance,Sam Danks
+GRC,Governance,Will Smith
+Portfolio Management,Governance,June Beck
+Process Management,Governance,Marcia Carr
+Quality & Compliance,Governance,Robert Nero
+Security & Risk Management,Governance,Sam Danks
+Vendor Management,Governance,Sam Danks
+Core Infrastructure,Infrastructure,Raju Singh
+Data Centers,Infrastructure,Max Gin
+Help Desk,Infrastructure,Sara Berg
+Hosting,Infrastructure,Marcia Carr
+Networking,Infrastructure,Luke Tracy
+Productivity,Infrastructure,Mira Flores
+SSO,Infrastructure,John Clark
+Other,Governance,Sam Danks
+Licensing,Infrastructure,Raju Singh

@@ -1,0 +1,26 @@
+Cost Element,Cost Element Group,Business Area
+External Labor,Labor,BU
+Internal Labor,Labor,BU
+Employee Performance,Other,BU
+Other,Other,BU
+Recognition,Other,BU
+Training,Other,BU
+Travel,Other,BU
+Administrative,Administrative,R&D
+Amortization,Depr & Amort,R&D
+Depreciation,Depr & Amort,R&D
+Hardware,Hardware & Software,R&D
+Hardware Maintenance,Hardware & Software,R&D
+Software,Hardware & Software,R&D
+Software Maintenance,Hardware & Software,R&D
+Supplies,Other,R&D
+Taxes,Other,R&D
+Telecomm,Other,R&D
+Vehicles,Other,R&D
+Inbound Allocations,Shared Services,R&D
+Outbound Allocations,Shared Services,R&D
+Project Expenses,Other,BU
+Severance,Other,BU
+Moving,Other,BU
+CAPEX,CAPEX,R&D
+Legal,Other,Office & Administrative

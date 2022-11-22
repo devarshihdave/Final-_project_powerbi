@@ -1,0 +1,39 @@
+Cost Element,Cost Element Group,Business Area,,Country,Region,,IT Department,IT Area,Dept. Manager
+External Labor,Labor,BU,,Austria,Europe,,Core,BU Support,Sam Danks
+Internal Labor,Labor,BU,,Belgium,Europe,,Development,BU Support,Sam Danks
+Employee Performance,Other,BU,,Brazil,Latin America,,Distribution,BU Support,Linda Lee
+Other,Other,BU,,Canada,Canada,,Emerging,BU Support,Robert Nero
+Recognition,Other,BU,,China,Africa & Asia,,Manufacturing,BU Support,Mira Flores
+Training,Other,BU,,Czech Republic,Europe,,Planning,BU Support,Mira Flores
+Travel,Other,BU,,Denmark,Europe,,Production,BU Support,Sam Danks
+Administrative,Administrative,R&D,,Finland,Europe,,R&D,BU Support,Max Gin
+Amortization,Depr & Amort,R&D,,France,Europe,,Business Intelligence,Enablement,Raju Singh
+Depreciation,Depr & Amort,R&D,,Germany,Europe,,Data Management,Enablement,Marcia Carr
+Hardware,Hardware & Software,R&D,,Hungary,Europe,,Document Management,Enablement,Sean Peters
+Hardware Maintenance,Hardware & Software,R&D,,Ireland,Europe,,EIM,Enablement,Linda Lee
+Software,Hardware & Software,R&D,,Israel,Africa & Asia,,Enterprise Capabilities,Enablement,Max Gin
+Software Maintenance,Hardware & Software,R&D,,Italy,Europe,,Innovation,Enablement,Max Gin
+Supplies,Other,R&D,,Japan,Africa & Asia,,Mobility,Enablement,Bo Jones
+Taxes,Other,R&D,,Mexico,Latin America,,Portals,Enablement,Jim Wheeler
+Telecomm,Other,R&D,,Netherlands,Europe,,Six Sigma,Enablement,Sam Danks
+Vehicles,Other,R&D,,New Zealand,Aus and NZ,,R1,Functional,Marcia Carr
+Inbound Allocations,Shared Services,R&D,,Poland,Europe,,R2,Functional,Raju Singh
+Outbound Allocations,Shared Services,R&D,,Portugal,Europe,,R3,Functional,Jim Biggs
+Project Expenses,Other,BU,,Puerto Rico,USA,,R5,Functional,Marcia Carr
+Severance,Other,BU,,Spain,Europe,,Administration,Governance,Jim Biggs
+Moving,Other,BU,,Sweden,Europe,,Architecture,Governance,Sam Danks
+CAPEX,CAPEX,R&D,,Switzerland,Europe,,GRC,Governance,Will Smith
+Legal,Other,Office & Administrative,,Turkey,Africa & Asia,,Portfolio Management,Governance,June Beck
+,,,,United Kingdom,Europe,,Process Management,Governance,Marcia Carr
+,,,,USA,USA,,Quality & Compliance,Governance,Robert Nero
+,,,,,,,Security & Risk Management,Governance,Sam Danks
+,,,,,,,Vendor Management,Governance,Sam Danks
+,,,,,,,Core Infrastructure,Infrastructure,Raju Singh
+,,,,,,,Data Centers,Infrastructure,Max Gin
+,,,,,,,Help Desk,Infrastructure,Sara Berg
+,,,,,,,Hosting,Infrastructure,Marcia Carr
+,,,,,,,Networking,Infrastructure,Luke Tracy
+,,,,,,,Productivity,Infrastructure,Mira Flores
+,,,,,,,SSO,Infrastructure,John Clark
+,,,,,,,Other,Governance,Sam Danks
+,,,,,,,Licensing,Infrastructure,Raju Singh
